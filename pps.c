@@ -3,7 +3,7 @@ int main(){
     int a,b;
     scanf("%d%d",&a,&b);
     int c;
-    printf("1-Arithmetic operators\n2-Increment and Decrement operator\n3-Assignment operator\n4-Relational operator\n5-Logical operator\n6-Conditional operators\n");
+    printf("1-Arithmetic operators\n2-Increment and Decrement operator\n3-Assignment operator\n4-Relational operator\n5-Logical operator\n6-Conditional operators\n7-Bitwise operator");
     scanf("%d",&c);
     int a1,a2;
     a1=a;
