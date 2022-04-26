@@ -43,10 +43,10 @@ int main(){
         a>b?printf("a is greater than b"):printf("b is greater than a");
         break;
         case 7:
-            printf("%d^%d",a^b);
-            printf("%d&%d",a&b);
-            printf("%d<<%d",a<<b);
-            printf("%d>>%d",a>>b);
+            printf("%d^%d\n",a^b);
+            printf("%d&%d\n",a&b);
+            printf("%d<<%d\n",a<<b);
+            printf("%d>>%d\n",a>>b);
             printf("%d~%d",a~b);
             break;
 
